@@ -11,6 +11,7 @@ public class Gomb extends Idom {
         return sugar;
     }
 
+
     @Override
     public String toString() {
         return "Gömb{" +
